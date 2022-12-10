@@ -1,0 +1,1 @@
+//account name, amount available, account type inputs and submit button

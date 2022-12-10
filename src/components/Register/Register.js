@@ -1,0 +1,1 @@
+//Signup, Register page: username, email, password inputs and signup button

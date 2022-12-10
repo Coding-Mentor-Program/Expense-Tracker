@@ -1,0 +1,1 @@
+//title, amount, date, credit/debit, category, note inputs and submit button
