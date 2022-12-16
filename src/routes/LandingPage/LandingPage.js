@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import RegisteringModal from '../../components/Modals/RegisteringModal';
+import RegisteringModal from '../../components/Register/Register';
 
 export default function LandingPage () {
     //username/password inputs, login and signup buttons
@@ -7,6 +7,7 @@ export default function LandingPage () {
 
         return (
             <main className="LandingPage-main">
+                <h1>Welcome To Expenses Table</h1>
                 <form>
                     <label>
                     Username:
